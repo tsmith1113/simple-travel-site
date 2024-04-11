@@ -1,0 +1,12 @@
+p {
+
+    font-family: Arial, sans-serfif;
+}
+
+
+table,tr, th, td {
+
+border: 1px solid;
+border-collapse: collapse;
+
+}
